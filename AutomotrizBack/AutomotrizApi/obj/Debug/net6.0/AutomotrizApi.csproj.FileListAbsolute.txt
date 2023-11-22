@@ -1,0 +1,200 @@
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.exe
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.deps.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.runtimeconfig.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.pdb
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.csproj.AssemblyReference.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.AssemblyInfoInputs.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.AssemblyInfo.cs
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.csproj.CoreCompileInputs.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.AutomotrizApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AutomotrizApi.props
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AutomotrizApi.props
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AutomotrizApi.props
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\scopedcss\bundle\AutomotrizApi.styles.css
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.csproj.CopyComplete
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\refint\AutomotrizApi.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.pdb
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.genruntimeconfig.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\ref\AutomotrizApi.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.exe
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.deps.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.runtimeconfig.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.pdb
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.csproj.AssemblyReference.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.AssemblyInfoInputs.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.AssemblyInfo.cs
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.csproj.CoreCompileInputs.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.AutomotrizApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AutomotrizApi.props
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AutomotrizApi.props
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AutomotrizApi.props
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\scopedcss\bundle\AutomotrizApi.styles.css
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.csproj.CopyComplete
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\refint\AutomotrizApi.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.pdb
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.genruntimeconfig.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\ref\AutomotrizApi.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.exe
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.deps.json
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.runtimeconfig.json
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.pdb
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.csproj.AssemblyReference.cache
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.AssemblyInfoInputs.cache
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.AssemblyInfo.cs
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.csproj.CoreCompileInputs.cache
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.AutomotrizApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AutomotrizApi.props
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AutomotrizApi.props
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AutomotrizApi.props
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\scopedcss\bundle\AutomotrizApi.styles.css
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.csproj.CopyComplete
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\refint\AutomotrizApi.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.pdb
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.genruntimeconfig.cache
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\ref\AutomotrizApi.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\appsettings.json
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.exe
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.deps.json
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.runtimeconfig.json
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.pdb
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.csproj.AssemblyReference.cache
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.AssemblyInfoInputs.cache
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.AssemblyInfo.cs
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.csproj.CoreCompileInputs.cache
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.AutomotrizApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AutomotrizApi.props
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AutomotrizApi.props
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AutomotrizApi.props
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\scopedcss\bundle\AutomotrizApi.styles.css
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.csproj.CopyComplete
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\refint\AutomotrizApi.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.pdb
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.genruntimeconfig.cache
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\ref\AutomotrizApi.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\appsettings.json
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.exe
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.deps.json
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.runtimeconfig.json
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizApi.pdb
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.csproj.AssemblyReference.cache
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.AssemblyInfoInputs.cache
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.AssemblyInfo.cs
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.csproj.CoreCompileInputs.cache
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.AutomotrizApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AutomotrizApi.props
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AutomotrizApi.props
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AutomotrizApi.props
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\scopedcss\bundle\AutomotrizApi.styles.css
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.csproj.CopyComplete
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\refint\AutomotrizApi.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.pdb
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\AutomotrizApi.genruntimeconfig.cache
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizApi\obj\Debug\net6.0\ref\AutomotrizApi.dll

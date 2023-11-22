@@ -1,0 +1,184 @@
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.exe
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.deps.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.runtimeconfig.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.pdb
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizBack.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizBack.pdb
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.AssemblyReference.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmFactura.resources
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.GenerateResource.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.AssemblyInfoInputs.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.AssemblyInfo.cs
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.CoreCompileInputs.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.CopyComplete
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\refint\AutomotrizFront.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.pdb
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.genruntimeconfig.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\ref\AutomotrizFront.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmConsultarFacturas.resources
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmLogin.resources
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmPrincipal.resources
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.Properties.Resources.resources
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmAutopartes.resources
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmEditarFactura.resources
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.exe
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.deps.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.runtimeconfig.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.pdb
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizBack.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizBack.pdb
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.AssemblyReference.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmAutopartes.resources
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmConsultarFacturas.resources
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmEditarFactura.resources
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmFactura.resources
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmLogin.resources
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmPrincipal.resources
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmVehiculos.resources
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.Properties.Resources.resources
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.GenerateResource.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.AssemblyInfoInputs.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.AssemblyInfo.cs
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.CoreCompileInputs.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.CopyComplete
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\refint\AutomotrizFront.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.pdb
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.genruntimeconfig.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\ref\AutomotrizFront.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmConsultarVehiculos.resources
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmConsultarAutopartes.resources
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmEditarAutoparte.resources
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.exe
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.deps.json
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.runtimeconfig.json
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.pdb
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizBack.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizBack.pdb
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.AssemblyReference.cache
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmAutopartes.resources
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmConsultarAutopartes.resources
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmConsultarFacturas.resources
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmConsultarVehiculos.resources
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmEditarAutoparte.resources
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmEditarFactura.resources
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmFactura.resources
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmLogin.resources
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmPrincipal.resources
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmVehiculos.resources
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.Properties.Resources.resources
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.GenerateResource.cache
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.AssemblyInfoInputs.cache
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.AssemblyInfo.cs
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.CoreCompileInputs.cache
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.CopyComplete
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\refint\AutomotrizFront.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.pdb
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.genruntimeconfig.cache
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\ref\AutomotrizFront.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmEditarVehiculo.resources
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.exe
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.deps.json
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.runtimeconfig.json
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.pdb
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizBack.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizBack.pdb
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.AssemblyReference.cache
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmAutopartes.resources
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmConsultarAutopartes.resources
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmConsultarFacturas.resources
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmConsultarVehiculos.resources
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmEditarAutoparte.resources
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmEditarFactura.resources
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmEditarVehiculo.resources
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmFactura.resources
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmLogin.resources
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmPrincipal.resources
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmVehiculos.resources
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.Properties.Resources.resources
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.GenerateResource.cache
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.AssemblyInfoInputs.cache
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.AssemblyInfo.cs
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.CoreCompileInputs.cache
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.CopyComplete
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\refint\AutomotrizFront.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.pdb
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.genruntimeconfig.cache
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\ref\AutomotrizFront.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.exe
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.deps.json
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.runtimeconfig.json
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizFront.pdb
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizBack.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\bin\Debug\net6.0-windows\AutomotrizBack.pdb
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.AssemblyReference.cache
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmAutopartes.resources
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmConsultarAutopartes.resources
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmConsultarFacturas.resources
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmConsultarVehiculos.resources
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmEditarAutoparte.resources
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmEditarFactura.resources
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmEditarVehiculo.resources
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmFactura.resources
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmLogin.resources
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.frmPrincipal.resources
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.FrmVehiculos.resources
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.Properties.Resources.resources
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.GenerateResource.cache
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.AssemblyInfoInputs.cache
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.AssemblyInfo.cs
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.CoreCompileInputs.cache
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.csproj.CopyComplete
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\refint\AutomotrizFront.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.pdb
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\AutomotrizFront.genruntimeconfig.cache
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizFront\obj\Debug\net6.0-windows\ref\AutomotrizFront.dll

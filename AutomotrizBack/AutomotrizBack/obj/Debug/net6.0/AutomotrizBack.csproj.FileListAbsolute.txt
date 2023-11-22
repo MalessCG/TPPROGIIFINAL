@@ -1,0 +1,60 @@
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.deps.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.AssemblyReference.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfoInputs.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfo.cs
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.CoreCompileInputs.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\refint\AutomotrizBack.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\Programacion II\Automotriz\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\ref\AutomotrizBack.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.deps.json
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.AssemblyReference.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfoInputs.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfo.cs
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.CoreCompileInputs.cache
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\refint\AutomotrizBack.dll
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Flia Ubal\Desktop\COLEGIO FACULTAD\Nahuel\TUP\cuatrimestre 2\TPI PROG\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\ref\AutomotrizBack.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.deps.json
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.AssemblyReference.cache
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfoInputs.cache
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfo.cs
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.CoreCompileInputs.cache
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\refint\AutomotrizBack.dll
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\Flia Ubal\Desktop\TPI PROG\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\ref\AutomotrizBack.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.deps.json
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.AssemblyReference.cache
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfoInputs.cache
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfo.cs
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.CoreCompileInputs.cache
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\refint\AutomotrizBack.dll
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\peroj\OneDrive\Escritorio\Segunda Entrega Labo\AutomotrizBack2\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\ref\AutomotrizBack.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.deps.json
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizBack\bin\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.AssemblyReference.cache
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfoInputs.cache
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.AssemblyInfo.cs
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.csproj.CoreCompileInputs.cache
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\refint\AutomotrizBack.dll
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\AutomotrizBack.pdb
+C:\Users\peroj\OneDrive\Escritorio\AutomotrizBack\AutomotrizBack\obj\Debug\net6.0\ref\AutomotrizBack.dll
